@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Badges:
 
-<a href="https://www.w3schools.com">
+<a href="https://www.youracclaim.com/badges/a2eaa1c1-85e2-4c54-98b6-453cf9a2c355/public_url">
   <img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="100" height="100"/>
 </a>
