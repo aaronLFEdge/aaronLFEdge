@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Badges:
 
-<img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="100" height="100"/>
+<a href="https://www.w3schools.com">
+  <img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="100" height="100"/>
+</a>
