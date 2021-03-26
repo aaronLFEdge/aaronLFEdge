@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2eaa1c1-85e2-4c54-98b6-453cf9a2c355" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 <img src="https://www.youracclaim.com/badges/a2eaa1c1-85e2-4c54-98b6-453cf9a2c355/public_url"/>
