@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png"/>
+<img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="40" height="40"/>
