@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 Badges:
 
 <a href="https://www.youracclaim.com/badges/a2eaa1c1-85e2-4c54-98b6-453cf9a2c355/public_url">
-  <img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="100" height="100"/>
+  <img src="LF_Events20_DigitalBadges_FNL_ONES_NA_Speaker.png" width="100" height="100" />
 </a>
+
 <a href="https://www.edgexfoundry.org/">
-  <img src="EdgeEx_BugHunter_v2-01.png" width="100" height="100"/>
+  <img src="EdgeEx_BugHunter_v2-01.png" width="100" height="100" title="EdgeX Bug Hunter"/>
 </a>
 <a href="https://docs.edgexfoundry.org/1.3/">
-  <img src="EdgeEx_BugHunter_v2-02.png" width="100" height="100"/>
+  <img src="EdgeEx_BugHunter_v2-02.png" width="100" height="100" title="EdgeX Bug Hunter"/>
 </a>
